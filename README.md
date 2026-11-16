@@ -108,16 +108,17 @@ AI analysis:
 
 ## 📸 Project Screenshots
 
-1.Complete n8n workflow of ai email management system.
+1. Complete n8n workflow of ai email management system.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/b8ef4f6da2d3e3383f76d89ea7d96b073b4e4c30/complete%20workflow.jpg)
 
-2.AI agent analysis email as category and priority the incoming email.
+2. AI agent analysis email as category and priority the incoming email.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/ced658b9fd756c9d56c52d6e95ca3905f2bfb9f1/analye.png)
 
-3.approval email sent to your email for approve or reject ai generating email.
+3. approval email sent to your email for approve or reject ai generating email.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/5362a5acc675bd4cfbc886f2471adf954c10e1c9/approval.png)
 
-, and execution results will be added here.
+4. Complete execution results after approve the ai generating email, sent to customer gmail.
+![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/30f7950ffd76d423c84d53af6f955f168d23dc05/approved.png)
 
 ## 🚧 Development Status
 
