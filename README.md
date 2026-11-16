@@ -198,8 +198,35 @@ technologies, and business applications.
 - Email analytics dashboard
 
 ## 💼 Want a Similar Automation?
+---
 
-I can build custom AI-powered email management systems for businesses using n8n.
+# 📬 Contact & Hire Me
+
+Are you looking to automate your business email management?
+
+I can help you build customized AI-powered automation systems using n8n.
+
+### Connect With Me
+
+- **GitHub:** https://github.com/syedaliabbashamdani
+- **Portfolio:** My GitHub profile
+- **Freelance Services:** AI Automation, n8n Workflows, AI Agents and API Integrations
+
+### Available for
+
+- Custom n8n workflow development
+- AI email automation
+- WhatsApp AI agents
+- CRM automation
+- Business process automation
+- AI integrations
+
+**Have an automation idea? Let's discuss your project!**
+
+---
+
+⭐ Thank you for visiting my project!
+
 
 **Services:** AI Agents | Email Automation | n8n Workflows | API Integrations
 
