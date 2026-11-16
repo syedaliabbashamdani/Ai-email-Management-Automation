@@ -72,6 +72,19 @@ flowchart TD
 
 ### 🤖 AI-Powered Email Analysis
 Automatically analyzes incoming emails to identify their category, priority, customer intent, and required action.
+## 📊 Example AI Analysis
+
+Example incoming email:
+
+**Subject:** I want to know your pricing
+
+AI analysis:
+
+- Category: Sales
+- Priority: Medium
+- Intent: Request pricing information
+- Needs Reply: Yes
+- Suggested Action: Explain service packages and ask about project requirements.
 
 ### ✍️ Intelligent Reply Generation
 Generates professional, context-aware email responses to help businesses communicate efficiently.
@@ -139,20 +152,6 @@ I can develop customized AI email automation systems using n8n.
 | Webhooks | Approval interaction |
 | JSON | Structured AI output |
 | Wait Node | Human approval workflow |
-
-## 📊 Example AI Analysis
-
-Example incoming email:
-
-**Subject:** I want to know your pricing
-
-AI analysis:
-
-- Category: Sales
-- Priority: Medium
-- Intent: Request pricing information
-- Needs Reply: Yes
-- Suggested Action: Explain service packages and ask about project requirements.
 
 ## 🔐 Security
 
