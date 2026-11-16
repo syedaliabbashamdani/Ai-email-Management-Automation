@@ -112,7 +112,7 @@ AI analysis:
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/b8ef4f6da2d3e3383f76d89ea7d96b073b4e4c30/complete%20workflow.jpg)
 
 2.AI agent analysis email as category and priority the incoming email.
-![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/commit/6d3d1d6ea6020aa7ac5de9432f28526e55f9abc4)
+![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/ced658b9fd756c9d56c52d6e95ca3905f2bfb9f1/analye.png)
 
 3.approval email sent to your email for approve or reject ai generating email.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/5362a5acc675bd4cfbc886f2471adf954c10e1c9/approval.png)
