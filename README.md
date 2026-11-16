@@ -35,33 +35,39 @@ An intelligent email workflow that:
 
 ## ⚙️ Workflow Architecture
 
-```text
-Gmail Trigger
-     |
-     v
-Edit Fields
-     |
-     v
-AI Email Analysis
-     |
-     v
-Structured Email Data
-     |
-     v
-AI Reply Generator
-     |
-     v
-Approval Email
-     |
-     v
-Wait for Human Decision
-     |
-     v
-Approve / Reject
-     |
-     v
-Gmail Response
+The following diagram illustrates the main workflow and the planned approval decision stage.
+
+```mermaid
+flowchart TD
+    A["📩 Gmail Trigger<br/>New Incoming Email"] --> B["📝 Edit Fields<br/>Extract Email Information"]
+    B --> C["🤖 AI Email Analysis<br/>Category, Priority & Intent"]
+    C --> D["✍️ AI Reply Generator<br/>Generate Professional Reply"]
+    D --> E["📨 Internal Approval Email"]
+    E --> F["⏳ Wait Node<br/>Wait for Human Decision"]
+    F --> G{"Approval Decision"}
+    G -->|Approve| H["📤 Gmail Send<br/>Send Customer Reply"]
+    G -->|Reject| I["🚫 Stop / Reject Reply"]
+
+    J["⚙️ n8n Automation"] -.-> A
+    K["🧠 OpenAI"] -.-> C
+    K -.-> D
+
+    classDef pending stroke-dasharray: 5 5
+    class G,H,I pending
 ```
+
+### Workflow Explanation
+
+1. Gmail receives a new customer email.
+2. n8n extracts the relevant information.
+3. AI analyzes and categorizes the email.
+4. AI generates a suggested reply.
+5. An internal approval email is sent.
+6. The workflow waits for a human decision.
+7. The approval/rejection branches represent the intended decision-handling stage.
+
+**Development note:** Approval and rejection handling must be successfully implemented and tested before these branches are considered operational.
+
 
 ## ✨ Key Features
 
