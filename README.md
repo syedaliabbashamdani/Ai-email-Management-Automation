@@ -128,6 +128,12 @@ The Gmail trigger, email analysis, AI reply generation, internal approval email,
 
 The approval decision handling and final response flow will be documented as they are tested and completed.
 
+## 📚 Project Documentation
+
+Read the complete [Project Walkthrough](./documentation/project-walkthrough.md)
+to understand the workflow architecture, individual steps,
+technologies, and business applications.
+
 ## 🚀 Future Improvements
 
 - Multiple email categories
