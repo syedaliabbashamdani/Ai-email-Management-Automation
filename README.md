@@ -153,12 +153,6 @@ I can develop customized AI email automation systems using n8n.
 | JSON | Structured AI output |
 | Wait Node | Human approval workflow |
 
-## 🔐 Security
-
-- Credentials are managed through n8n credentials.
-- API keys are not included in this repository.
-- Customer information is not published.
-- Workflow exports must be sanitized before sharing.
 
 ## 📸 Project Screenshots
 
