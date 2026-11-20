@@ -180,7 +180,7 @@ I can develop customized AI email automation systems using n8n.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/e699f4907beac9d98bfa67591893792508922277/screenshots/approval.png)
 
 4. Complete execution results after approve the ai generating email, sent to customer gmail.
-![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/30f7950ffd76d423c84d53af6f955f168d23dc05/approved.png)
+![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/970c24a55978f315024d02941d9de498a662f95d/screenshots/approved.png)
 
 ## 🚧 Development Status
 
