@@ -212,14 +212,7 @@ I can develop customized AI email automation systems using n8n.
 **Let's discuss your automation requirements.**
 
 ---
-## 🚀 Future Improvements
 
-- Multiple email categories
-- Urgent email notifications
-- Google Sheets reporting
-- CRM integration
-- Advanced approval controls
-- Email analytics dashboard
 
 # 📬 Contact & Hire Me
 
@@ -232,6 +225,15 @@ I can help you build customized AI-powered automation systems using n8n.
 - **GitHub:** https://github.com/syedaliabbashamdani
 - **Portfolio:** My GitHub profile
 - **Freelance Services:** AI Automation, n8n Workflows, AI Agents and API Integrations
+
+  ## 🚀 Future Improvements
+
+- Multiple email categories
+- Urgent email notifications
+- Google Sheets reporting
+- CRM integration
+- Advanced approval controls
+- Email analytics dashboard
 
 ### Available for
 
