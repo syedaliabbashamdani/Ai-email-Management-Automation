@@ -12,6 +12,13 @@ Businesses receive many emails every day. Manually reading, categorizing, priori
 
 This project uses **n8n and AI** to automate the email management process while keeping humans involved in important communication decisions.
 
+## 📚 Project Documentation
+
+Read the complete [Project Walkthrough](./documentation/project-walkthrough.md)
+to understand the workflow architecture, individual steps,
+technologies, and business applications.
+
+
 ## 💼 Business Problem
 
 - Too many incoming customer emails.
@@ -190,11 +197,6 @@ The workflow is designed to keep a human involved before customer replies are se
 
 Final deployment should include testing of both approval and rejection paths, as well as verification of the email delivery process.
 
-## 📚 Project Documentation
-
-Read the complete [Project Walkthrough](./documentation/project-walkthrough.md)
-to understand the workflow architecture, individual steps,
-technologies, and business applications.
 
 # 💼 Need This Automation for Your Business?
 
