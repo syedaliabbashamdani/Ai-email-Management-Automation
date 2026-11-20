@@ -170,16 +170,24 @@ I can develop customized AI email automation systems using n8n.
 
 ## 📸 Project Screenshots
 
-1. Complete n8n workflow of ai email management system.
+1. Complete Workflow
+
+Overview of the complete n8n AI Email Management automation.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/a48f04cdc146a2e24e4fcc4ba0d074507f892b24/screenshots/complete-workflow.jpg)
 
-2. AI agent analysis email as category and priority the incoming email.
+2. AI Email Analysis
+
+The AI analyzes incoming emails and identifies their category, priority, customer intent, and suggested action.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/adea89f0c037b5d1b08549fae18e6fd53eb4e4bb/screenshots/analye.png)
 
-3. approval email sent to your email for approve or reject ai generating email.
+3. Human Approval Email
+
+An internal approval email is generated to allow human review before sending the AI-generated reply.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/e699f4907beac9d98bfa67591893792508922277/screenshots/approval.png)
 
-4. Complete execution results after approve the ai generating email, sent to customer gmail.
+4. Approved Email
+
+Example of the final email delivery after the approval process.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/970c24a55978f315024d02941d9de498a662f95d/screenshots/approved.png)
 
 ## 🚧 Development Status
