@@ -138,24 +138,6 @@ This automation is designed to help businesses:
 
 ---
 
-# 💼 Need This Automation for Your Business?
-
-I can develop customized AI email automation systems using n8n.
-
-**Possible customizations:**
-
-- Gmail and Outlook integration
-- AI email classification
-- Priority-based notifications
-- AI reply generation
-- Human approval workflows
-- CRM and Google Sheets integration
-
-**Let's discuss your automation requirements.**
-
----
-
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -192,11 +174,21 @@ Example of the final email delivery after the approval process.
 
 ## 🚧 Development Status
 
-**Status: In done**
+**Status: Implemented — Testing and Documentation**
 
-The Gmail trigger, email analysis, AI reply generation, internal approval email, and Wait node are part of the current implementation.
+The project includes:
 
-The approval decision handling and final response flow will be documented as they are tested and completed.
+- Gmail trigger for incoming emails.
+- AI-powered email analysis and classification.
+- Priority identification.
+- AI-generated email replies.
+- Internal approval notification.
+- Wait node for human decision handling.
+- Approval and rejection processing.
+
+The workflow is designed to keep a human involved before customer replies are sent.
+
+Final deployment should include testing of both approval and rejection paths, as well as verification of the email delivery process.
 
 ## 📚 Project Documentation
 
@@ -204,6 +196,22 @@ Read the complete [Project Walkthrough](./documentation/project-walkthrough.md)
 to understand the workflow architecture, individual steps,
 technologies, and business applications.
 
+# 💼 Need This Automation for Your Business?
+
+I can develop customized AI email automation systems using n8n.
+
+**Possible customizations:**
+
+- Gmail and Outlook integration
+- AI email classification
+- Priority-based notifications
+- AI reply generation
+- Human approval workflows
+- CRM and Google Sheets integration
+
+**Let's discuss your automation requirements.**
+
+---
 ## 🚀 Future Improvements
 
 - Multiple email categories
@@ -212,9 +220,6 @@ technologies, and business applications.
 - CRM integration
 - Advanced approval controls
 - Email analytics dashboard
-
-## 💼 Want a Similar Automation?
----
 
 # 📬 Contact & Hire Me
 
