@@ -171,7 +171,7 @@ I can develop customized AI email automation systems using n8n.
 ## 📸 Project Screenshots
 
 1. Complete n8n workflow of ai email management system.
-![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/b8ef4f6da2d3e3383f76d89ea7d96b073b4e4c30/complete%20workflow.jpg)
+![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/a48f04cdc146a2e24e4fcc4ba0d074507f892b24/screenshots/complete-workflow.jpg)
 
 2. AI agent analysis email as category and priority the incoming email.
 ![image alt](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/ced658b9fd756c9d56c52d6e95ca3905f2bfb9f1/analye.png)
