@@ -37,7 +37,8 @@ An intelligent email workflow that:
 
 The following diagram illustrates the main workflow and the planned approval decision stage.
 
-```mermaid
+
+```mermaid id="eml724"
 flowchart TD
     A["📩 Gmail Trigger<br/>New Incoming Email"] --> B["📝 Edit Fields<br/>Extract Email Information"]
     B --> C["🤖 AI Email Analysis<br/>Category, Priority & Intent"]
@@ -54,7 +55,20 @@ flowchart TD
 
     classDef pending stroke-dasharray: 5 5
     class G,H,I pending
+
+    style A fill:#E1F5FE,stroke:#0288D1,stroke-width:2px,color:#01579B
+    style B fill:#E8EAF6,stroke:#3949AB,stroke-width:2px,color:#1A237E
+    style C fill:#F3E5F5,stroke:#8E24AA,stroke-width:2px,color:#4A148C
+    style D fill:#FFF3E0,stroke:#FB8C00,stroke-width:2px,color:#E65100
+    style E fill:#E0F2F1,stroke:#00897B,stroke-width:2px,color:#004D40
+    style F fill:#FFF9C4,stroke:#F9A825,stroke-width:2px,color:#795548
+    style G fill:#FFF9C4,stroke:#F9A825,stroke-width:2px,color:#795548
+    style H fill:#E8F5E9,stroke:#43A047,stroke-width:2px,color:#1B5E20
+    style I fill:#FCE4EC,stroke:#D81B60,stroke-width:2px,color:#880E4F
+    style J fill:#ECEFF1,stroke:#546E7A,stroke-width:2px,color:#263238
+    style K fill:#FCE4EC,stroke:#D81B60,stroke-width:2px,color:#880E4F
 ```
+
 
 ### Workflow Explanation
 
