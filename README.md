@@ -162,22 +162,22 @@ This automation is designed to help businesses:
 1. Complete Workflow
 
 Overview of the complete n8n AI Email Management automation.
-![Complete Workflow](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/a48f04cdc146a2e24e4fcc4ba0d074507f892b24/screenshots/complete-workflow.jpg)
+![Complete Workflow](screenshots/complete-workflow.jpg)
 
 2. AI Email Analysis
 
 The AI analyzes incoming emails and identifies their category, priority, customer intent, and suggested action.
-![AI Email Analysis](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/adea89f0c037b5d1b08549fae18e6fd53eb4e4bb/screenshots/analye.png)
+![AI Email Analysis](screenshots/analye.png)
 
 3. Human Approval Email
 
 An internal approval email is generated to allow human review before sending the AI-generated reply.
-![Human Approval Email](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/e699f4907beac9d98bfa67591893792508922277/screenshots/approval.png)
+![Human Approval Email](screenshots/approval.png)
 
 4. Approved Email
 
 Example of the final email delivery after the approval process.
-![Approved Email](https://github.com/syedaliabbashamdani/Ai-email-Management-Automation/blob/970c24a55978f315024d02941d9de498a662f95d/screenshots/approved.png)
+![Approved Email](screenshots/approved.png)
 
 ## 🚧 Development Status
 
