@@ -1,3 +1,4 @@
+![AI Email Management & Automation](screenshots/ai-email-management-banner.png)
 # 📧 AI Email Management & Automation
 
 ### Intelligent Email Processing & AI-Powered Reply Generation with n8n
