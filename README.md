@@ -200,7 +200,7 @@ Final deployment should include testing of both approval and rejection paths, as
 
 # 💼 Need This Automation for Your Business?
 
-I can develop customized AI email automation systems using n8n.
+I can help you build customized AI-powered automation systems using n8n.
 
 **Possible customizations:**
 
@@ -215,14 +215,9 @@ I can develop customized AI email automation systems using n8n.
 
 ---
 
-
-# 📬 Contact & Hire Me
-
 Are you looking to automate your business email management?
 
-I can help you build customized AI-powered automation systems using n8n.
-
-### Connect With Me
+# 📬 Contact & Hire Me
 
 - **GitHub:** https://github.com/syedaliabbashamdani
 - **Portfolio:** My GitHub profile
@@ -251,9 +246,6 @@ I can help you build customized AI-powered automation systems using n8n.
 ---
 
 ⭐ Thank you for visiting my project!
-
-
-**Services:** AI Agents | Email Automation | n8n Workflows | API Integrations
 
 ---
 
