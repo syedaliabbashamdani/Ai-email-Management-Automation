@@ -79,13 +79,19 @@ flowchart TD
 
 ### Workflow Explanation
 
-1. Gmail receives a new customer email.
-2. n8n extracts the relevant information.
-3. AI analyzes and categorizes the email.
-4. AI generates a suggested reply.
-5. An internal approval email is sent.
-6. The workflow waits for a human decision.
-7. The approval/rejection branches represent the intended decision-handling stage.
+1. Gmail receives a customer email.
+
+2. AI analyzes the message.
+
+3. AI generates a reply.
+
+4. Internal approval email is sent.
+
+5. Human clicks Approve or Reject.
+
+6. Approve → customer receives the reply.
+
+7. Reject → customer receives no automated reply.
 
 **Development note:** Approval and rejection handling must be successfully implemented and tested before these branches are considered operational.
 
